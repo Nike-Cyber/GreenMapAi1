@@ -1,0 +1,7 @@
+{
+  "name": "GreenMap",
+  "description": "An interactive web application for users to report and visualize environmental efforts. Users can mark locations for tree plantations or pollution hotspots, creating a collaborative map for a greener planet.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
